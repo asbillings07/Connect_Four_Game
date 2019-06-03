@@ -179,11 +179,11 @@ class Game {
         this.ready = true;
       } else {
         this.gameOver("No More tokens!");
-        resetButton.style.display = "block";
+        resetButton.style.display = "";
       }
     } else {
       this.gameOver(`${target.owner.name} wins!`);
-      resetButton.style.display = "block";
+      resetButton.style.display = "";
     }
   }
 }

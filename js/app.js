@@ -2,12 +2,8 @@
 const game = new Game();
 
 const startGame = document.getElementById("begin-game");
-const resetButton = document.createElement("button");
-resetButton.textContent = "Reset Game";
-resetButton.setAttribute("id", "reset-game");
-startGame.after(resetButton);
+const resetButton = document.getElementById("reset-game");
 resetButton.style.display = "none";
-
 /**
  * Listens for click on `#begin-game` and calls startGame() on game object
  */

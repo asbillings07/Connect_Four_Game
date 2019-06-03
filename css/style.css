@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #303853;
+  background-color: lightblue;
   font-family: "Wendy One", sans-serif;
   font-size: 1.5em;
   color: white;
@@ -42,7 +42,7 @@ body {
 
 #begin-game {
   width: 200px;
-  background-color: #645a7e;
+  background-color: darkgray;
   border-radius: 8px;
   color: #fff;
   padding: 25px;
@@ -60,7 +60,7 @@ body {
 #reset-game {
   width: 200px;
   height: 30px;
-  background-color: #645a7e;
+  background-color: lightgreen;
   font-size: 25;
   font-family: sans-serif;
 }
