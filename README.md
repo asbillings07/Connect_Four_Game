@@ -8,7 +8,7 @@ Each player drops tokens into a grid, attempting to line up 4 tokens in a row. W
 
 Four in a Row Free supports one player and two player gameplay, so you can play against another human or against yourself.
 
-If you love Four in a Row, you'll love this game. You can play it here: https://dazzling-brown-630e89.netlify.com/
+If you love Four in a Row, you'll love this game. You can play it here: [connect-four-game](https://four-in-a-row.netlify.com/)
 
 ## Languages Used
 
